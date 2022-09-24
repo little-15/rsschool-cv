@@ -25,3 +25,15 @@ WordPress developer, Front-end web developer
 - Creating email templates;
 - Updating and modifying existing HTML/CSS/JavaScript code;
 - Maintaining websites content on a daily basis.
+
+
+### EDUCATION
+
+Belarusian National Technical University
+
+
+### LANGUAGES
+- English (Upper-Intermediate)
+- Polish (Intermediate)
+- Belarusian (Native)
+- Russian (Native)
